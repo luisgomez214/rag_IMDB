@@ -1,0 +1,133 @@
+[
+    {
+        "question": "How does the 2024 movie Wicked differ from the Broadway musical?",
+        "expected_answer": "While the movie remains largely faithful to the musical, it expands on the visual storytelling with more elaborate settings and cinematography. Some scenes are adjusted for the screen format, and a few new dialogues were added to enhance character depth."
+    },
+    {
+        "question": "What are critics saying about the performances in the 2024 movie Wicked?",
+        "expected_answer": "Critics praise Cynthia Erivo and Ariana Grande for their emotionally charged and vocally impressive performances, highlighting their chemistry and individual depth."
+    },
+    {
+        "question": "How do critics describe the direction of Jon M. Chu in the 2024 movie Wicked?",
+        "expected_answer": "Critics commend Jon M. Chu for his visionary direction, blending vibrant visuals with heartfelt storytelling to bring Oz to life in a compelling way."
+    },
+    {
+        "question": "What are the critical opinions on the visual effects of the 2024 movie Wicked?",
+        "expected_answer": "Critics have lauded the stunning visual effects, particularly the depiction of the Emerald City and the seamless integration of practical sets and CGI."
+    },
+    {
+        "question": "What aspects of the 2024 movie Wicked have received mixed reviews from critics?",
+        "expected_answer": "Some critics have expressed mixed feelings about the pacing of the movie and the inclusion of new scenes that diverge slightly from the Broadway musical."
+    },
+    {
+        "question": "How do critics view the music in the 2024 movie Wicked?",
+        "expected_answer": "Critics unanimously praise the music, particularly iconic songs like 'Defying Gravity,' for their emotional resonance and ability to drive the narrative."
+    },
+    {
+        "question": "What is the overall critical reception of the 2024 movie Wicked?",
+        "expected_answer": "The movie has received largely positive reviews, with critics celebrating its faithful adaptation, strong performances, and visual splendor, though some note its slight departure in tone from the Broadway original."
+    },
+    {
+        "question": "What do critics think about the movie's exploration of moral ambiguity in Wicked?",
+        "expected_answer": "Critics appreciate the nuanced portrayal of moral ambiguity, applauding the movie's ability to challenge traditional notions of good and evil."
+    },
+    {
+        "question": "How do critics compare the movie Wicked to other recent musical adaptations?",
+        "expected_answer": "Critics place Wicked among the top musical adaptations, citing its ambitious production values and emotional depth as standout features compared to other recent releases."
+    },
+    {
+        "question": "What elements of the 2024 movie Wicked have been described as innovative by critics?",
+        "expected_answer": "Critics highlight the innovative camera work, dynamic choreography, and the seamless blending of live-action and animation as groundbreaking elements."
+    },
+    {
+        "question": "What do critics say about the balance of humor and drama in the 2024 movie Wicked?",
+        "expected_answer": "Critics appreciate the balance of humor and drama, noting how the lighter moments enhance the emotional impact of the movie's dramatic scenes."
+    },
+
+    {
+        "question": "Who directed the 2024 movie Wicked?",
+        "expected_answer": "Jon M. Chu"
+    },
+    {
+        "question": "Who plays Glinda in the 2024 movie Wicked?",
+        "expected_answer": "Ariana Grande"
+    },
+    {
+        "question": "Who plays Elphaba in the 2024 movie Wicked?",
+        "expected_answer": "Cynthia Erivo"
+    },
+    {
+        "question": "What is the name of the school in the 2024 movie Wicked?",
+        "expected_answer": "Shiz University"
+    },
+    {
+        "question": "What color is Elphaba in the 2024 movie Wicked?",
+        "expected_answer": "Green"
+    },
+    {
+        "question": "Who is the love interest of Glinda in the 2024 movie Wicked?",
+        "expected_answer": "Fiyero"
+    },
+    {
+        "question": "Who plays Fiyero in the 2024 movie Wicked?",
+        "expected_answer": "Jonathan Bailey"
+    },
+    {
+        "question": "What is the name of the city featured prominently in the 2024 movie Wicked?",
+        "expected_answer": "Emerald City"
+    },
+    {
+        "question": "Which character sings 'Defying Gravity' in the 2024 movie Wicked?",
+        "expected_answer": "Elphaba"
+    },
+    {
+        "question": "Which character sings 'Popular' in the 2024 movie Wicked?",
+        "expected_answer": "Glinda"
+    },
+    {
+        "question": "What is the name of the Wizard in the 2024 movie Wicked?",
+        "expected_answer": "The Wizard of Oz"
+    },
+    {
+        "question": "What song does Glinda sing in the 2024 movie Wicked?",
+        "expected_answer": "'Popular'"
+    },
+    {
+        "question": "Who plays the Wizard in the 2024 movie Wicked?",
+        "expected_answer": "Jeff Goldblum"
+    },
+    {
+        "question": "What is the major difference in the 2024 movie Wicked compared to the Broadway musical?",
+        "expected_answer": "More elaborate cinematography"
+    },
+    {
+        "question": "What is Elphaba's defining characteristic in the 2024 movie Wicked?",
+        "expected_answer": "Her green skin"
+    },
+    {
+        "question": "Which character is turned into a flying monkey in the 2024 movie Wicked?",
+        "expected_answer": "Chistery"
+    },
+    {
+        "question": "Who composed the music for the 2024 movie Wicked?",
+        "expected_answer": "Stephen Schwartz"
+    },
+    {
+        "question": "What genre is the 2024 movie Wicked?",
+        "expected_answer": "Musical fantasy"
+    },
+    {
+        "question": "What year is the 2024 movie Wicked set in?",
+        "expected_answer": "It is set in the fictional Land of Oz"
+    },
+    {
+        "question": "What is the primary theme of the story in the 2024 movie Wicked?",
+        "expected_answer": "The story explores friendship, power, and the perception of good vs. evil."
+    },
+    {
+        "question": "How does the 2024 movie Wicked differ from the Broadway musical?",
+        "expected_answer": "While the movie remains largely faithful to the musical, it expands on the visual storytelling with more elaborate settings and cinematography. Some scenes are adjusted for the screen format, and a few new dialogues were added to enhance character depth."
+    }
+   
+]
+
