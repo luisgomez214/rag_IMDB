@@ -1,7 +1,9 @@
 # Overview
 On IMDb, there is a section called "Reviews" where members share their ratings and written reviews of movies and shows. Another section, titled "External Reviews," provides links to other sites with additional reviews, but only as links, without offering users any immediate insights. My goal is to enhance this experience by creating a chatbot that users can interact with based on the content of these reviews.
 
-The LLM used for this system is Groq llama, the language model is not up to date with information from recently released movies. This system focuses on the 2024 movie 'Wicked' but can easily be used for other movies. Simply switch the links on 'test_scrape_imdb.py'.
+The LLM used for this system is Groq llama, the language model is not up to date with information from recently released movies. The reason why this model was used is because the goal is to provde users with information that are strictly based on the reviews from the links. Up to date models will already have review and critic information in its training set, making the goal difficult to achieve. 
+
+This system focuses on the 2024 movie 'Wicked' but can easily be used for other movies. Simply switch the links on 'test_scrape_imdb.py'.
 
 
 # Setup
@@ -61,9 +63,10 @@ The stars of the 2024 movie Wicked are:
 Beyond text summazation, the system can answer questions based on opinions. 
 
 Example 2:
+```
 movie_rag> Did critics have a good or bad review of the 2024 movie Wicked?
-Critics had a generally positive review of the 2024 movie Wicked. The feedback described it as visually stunning, musically captivating, and emotionally resonant. They praised the strong performances of the cast, particularly Cynthia Erivo and Ariana Grande, as well as the production design, costume design, and music.```
-
+Critics had a generally positive review of the 2024 movie Wicked. The feedback described it as visually stunning, musically captivating, and emotionally resonant. They praised the strong performances of the cast, particularly Cynthia Erivo and Ariana Grande, as well as the production design, costume design, and music.
+```
 
 ```
 movie_rag> What did critics think were some of the issues with the 2024 movie Wicked?
