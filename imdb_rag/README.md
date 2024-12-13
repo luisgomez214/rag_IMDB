@@ -78,7 +78,7 @@ According to the review summaries and feedback, critics noted the following issu
 To evaluate the system, both partial and semantic similarities were used. The threshold for semantic was at least .6 and for partial at least .8. If the predicted matched by either of those thresholds, then it is counted as correct. At times, "vague" or "broad" questions will give different answers than what was expected. For example "What did crtics think of Ariana Grande's performance in the 2024 movie Wicked." Will result in a different answer every time because there are many things critics could talk about regarding her performance.  
 
 Below is the results: 
-'''
+```
 luis@Luiss-MacBook-Pro-40 finalproj % python3 evaluate_easy.py
 Question: How does the 2024 movie Wicked differ from the Broadway musical?
 Expected: While the movie remains largely faithful to the musical, it expands on the visual storytelling with more elaborate settings and cinematography. Some scenes are adjusted for the screen format, and a few new dialogues were added to enhance character depth.
@@ -208,6 +208,6 @@ Predicted: Cynthia Erivo plays Elphaba Thropp in the 2024 movie Wicked.
 Result: Overall correct
 Semantic Similarity: 0.5269
 Partial Similarity: 1.0000
-'''
+```
 
 Finally, I repeated the process for a different movie, 'Moana 2,' and I was successfully able to seamlessly replicate my results for a different movie. 
